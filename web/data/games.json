@@ -510,6 +510,16 @@
     "game_type": "season"
   },
   {
+    "id": 618103,
+    "date": "2026-01-11",
+    "home_team": "HARFANGS SHERBROOKE",
+    "away_team": "CASCADES ÉLITE",
+    "home_score": 4,
+    "away_score": 4,
+    "status": "FINAL",
+    "game_type": "season"
+  },
+  {
     "id": 618109,
     "date": "2025-10-04",
     "home_team": "VERT & NOIR DE L'ÉCOLE FADETTE",
@@ -800,6 +810,16 @@
     "game_type": "season"
   },
   {
+    "id": 618147,
+    "date": "2026-01-11",
+    "home_team": "FORESTIERS A-T",
+    "away_team": "SEIGNEURS DES MILLE-ILES",
+    "home_score": 3,
+    "away_score": 5,
+    "status": "FINAL",
+    "game_type": "season"
+  },
+  {
     "id": 618150,
     "date": "2025-09-27",
     "home_team": "ESTACADES MAURICIE",
@@ -1030,6 +1050,16 @@
     "game_type": "season"
   },
   {
+    "id": 618176,
+    "date": "2026-01-11",
+    "home_team": "BLIZZARD SSF",
+    "away_team": "ALBATROS",
+    "home_score": 2,
+    "away_score": 1,
+    "status": "FINAL",
+    "game_type": "season"
+  },
+  {
     "id": 618178,
     "date": "2025-10-31",
     "home_team": "BLIZZARD SSF",
@@ -1180,6 +1210,16 @@
     "game_type": "season"
   },
   {
+    "id": 618196,
+    "date": "2026-01-11",
+    "home_team": "LIONS LAC ST-LOUIS",
+    "away_team": "GRENADIERS LAC ST-LOUIS",
+    "home_score": 5,
+    "away_score": 1,
+    "status": "FINAL",
+    "game_type": "season"
+  },
+  {
     "id": 618198,
     "date": "2026-01-09",
     "home_team": "NATIONAL MONTRÉAL",
@@ -1226,6 +1266,16 @@
     "away_team": "FORESTIERS A-T",
     "home_score": 9,
     "away_score": 1,
+    "status": "FINAL",
+    "game_type": "season"
+  },
+  {
+    "id": 618204,
+    "date": "2026-01-11",
+    "home_team": "NATIONAL MONTRÉAL",
+    "away_team": "INTREPIDE OUTAOUAIS",
+    "home_score": 3,
+    "away_score": 3,
     "status": "FINAL",
     "game_type": "season"
   },
@@ -1340,12 +1390,32 @@
     "game_type": "season"
   },
   {
+    "id": 618224,
+    "date": "2026-01-11",
+    "home_team": "AS QUÉBEC",
+    "away_team": "CANAM BEAUCE-APPALACHES",
+    "home_score": 3,
+    "away_score": 0,
+    "status": "FINAL",
+    "game_type": "season"
+  },
+  {
     "id": 618225,
     "date": "2025-11-09",
     "home_team": "SÉLECT DU NORD",
     "away_team": "CONQUÉRANTS BASSES-LAURENTIDES",
     "home_score": 3,
     "away_score": 1,
+    "status": "FINAL",
+    "game_type": "season"
+  },
+  {
+    "id": 618226,
+    "date": "2026-01-11",
+    "home_team": "SÉLECT DU NORD",
+    "away_team": "ROCKET JR LAVAL",
+    "home_score": 2,
+    "away_score": 2,
     "status": "FINAL",
     "game_type": "season"
   },
@@ -1670,6 +1740,16 @@
     "game_type": "season"
   },
   {
+    "id": 618273,
+    "date": "2026-01-11",
+    "home_team": "CORSAIRES POINTE-LÉVY",
+    "away_team": "ESPOIR SAGUENAY LAC ST-JEAN",
+    "home_score": 7,
+    "away_score": 0,
+    "status": "FINAL",
+    "game_type": "season"
+  },
+  {
     "id": 618275,
     "date": "2025-10-10",
     "home_team": "CORSAIRES POINTE-LÉVY",
@@ -1966,6 +2046,16 @@
     "away_team": "LIONS LAC ST-LOUIS",
     "home_score": 2,
     "away_score": 10,
+    "status": "FINAL",
+    "game_type": "season"
+  },
+  {
+    "id": 618322,
+    "date": "2026-01-11",
+    "home_team": "VERT & NOIR DE L'ÉCOLE FADETTE",
+    "away_team": "NOIR ET OR DE MORTAGNE",
+    "home_score": 2,
+    "away_score": 5,
     "status": "FINAL",
     "game_type": "season"
   },
