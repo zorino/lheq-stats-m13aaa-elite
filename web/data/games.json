@@ -2260,6 +2260,16 @@
     "game_type": "season"
   },
   {
+    "id": 618318,
+    "date": "2026-01-25",
+    "home_team": "PIONNIERS LANAUDIÈRE",
+    "away_team": "INTREPIDE OUTAOUAIS",
+    "home_score": 2,
+    "away_score": 7,
+    "status": "FINAL",
+    "game_type": "season"
+  },
+  {
     "id": 618319,
     "date": "2025-10-05",
     "home_team": "DYNAMIQUES CCL",
@@ -2446,6 +2456,16 @@
     "away_team": "NOIR ET OR DE MORTAGNE",
     "home_score": 2,
     "away_score": 7,
+    "status": "FINAL",
+    "game_type": "season"
+  },
+  {
+    "id": 618343,
+    "date": "2026-01-25",
+    "home_team": "CONQUÉRANTS BASSES-LAURENTIDES",
+    "away_team": "SÉLECT DU NORD",
+    "home_score": 2,
+    "away_score": 6,
     "status": "FINAL",
     "game_type": "season"
   },

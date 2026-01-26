@@ -4,6 +4,32 @@
       {
         "players": [
           {
+            "name": "DYLAN LANGEVIN",
+            "position": "F",
+            "number": 94
+          },
+          {
+            "name": "JEROME LACHAPELLE",
+            "position": "F",
+            "number": 98
+          },
+          {
+            "name": "ELIOTT FORTIN",
+            "position": "F",
+            "number": 97
+          }
+        ],
+        "goals": 7,
+        "assists": 9,
+        "points": 16,
+        "type": "trio",
+        "raw_score": 16,
+        "dominance_score": 43.2,
+        "rank": "Line 1"
+      },
+      {
+        "players": [
+          {
             "name": "MAIK FORGET",
             "position": "F",
             "number": 14
@@ -24,15 +50,15 @@
         "points": 15,
         "type": "trio",
         "raw_score": 15,
-        "dominance_score": 46.9,
-        "rank": "Line 1"
+        "dominance_score": 40.5,
+        "rank": "Line 2"
       },
       {
         "players": [
           {
-            "name": "ELIOTT FORTIN",
+            "name": "JAYKE LE PAGE",
             "position": "F",
-            "number": 97
+            "number": 74
           },
           {
             "name": "WILLIAM VALLIERES",
@@ -45,38 +71,12 @@
             "number": 22
           }
         ],
-        "goals": 5,
-        "assists": 9,
-        "points": 14,
+        "goals": 3,
+        "assists": 3,
+        "points": 6,
         "type": "trio",
-        "raw_score": 14,
-        "dominance_score": 43.8,
-        "rank": "Line 2"
-      },
-      {
-        "players": [
-          {
-            "name": "DYLAN LANGEVIN",
-            "position": "F",
-            "number": 94
-          },
-          {
-            "name": "JEROME LACHAPELLE",
-            "position": "F",
-            "number": 98
-          },
-          {
-            "name": "JAYKE LE PAGE",
-            "position": "F",
-            "number": 74
-          }
-        ],
-        "goals": 1,
-        "assists": 2,
-        "points": 3,
-        "type": "trio",
-        "raw_score": 3,
-        "dominance_score": 9.4,
+        "raw_score": 6,
+        "dominance_score": 16.2,
         "rank": "Line 3"
       }
     ],
@@ -1600,6 +1600,32 @@
       {
         "players": [
           {
+            "name": "LOIC MONETTE",
+            "position": "F",
+            "number": 25
+          },
+          {
+            "name": "ZACK MAZZAWI",
+            "position": "F",
+            "number": 22
+          },
+          {
+            "name": "BLAKE VALIQUETTE",
+            "position": "F",
+            "number": 36
+          }
+        ],
+        "goals": 2,
+        "assists": 2,
+        "points": 4,
+        "type": "trio",
+        "raw_score": 4,
+        "dominance_score": 40.0,
+        "rank": "Line 1"
+      },
+      {
+        "players": [
+          {
             "name": "RYAN DUCHARME",
             "position": "F",
             "number": 44
@@ -1620,8 +1646,8 @@
         "points": 3,
         "type": "trio",
         "raw_score": 3,
-        "dominance_score": 37.5,
-        "rank": "Line 1"
+        "dominance_score": 30.0,
+        "rank": "Line 2"
       },
       {
         "players": [
@@ -1646,33 +1672,7 @@
         "points": 3,
         "type": "trio",
         "raw_score": 3,
-        "dominance_score": 37.5,
-        "rank": "Line 2"
-      },
-      {
-        "players": [
-          {
-            "name": "BLAKE VALIQUETTE",
-            "position": "F",
-            "number": 36
-          },
-          {
-            "name": "ZACK MAZZAWI",
-            "position": "F",
-            "number": 22
-          },
-          {
-            "name": "LOIC MONETTE",
-            "position": "F",
-            "number": 25
-          }
-        ],
-        "goals": 1,
-        "assists": 1,
-        "points": 2,
-        "type": "trio",
-        "raw_score": 2,
-        "dominance_score": 25.0,
+        "dominance_score": 30.0,
         "rank": "Line 3"
       }
     ],
@@ -1841,6 +1841,21 @@
       {
         "players": [
           {
+            "name": "LOUIS BEAUDOIN",
+            "position": "F",
+            "number": 38
+          },
+          {
+            "name": "ZACK MAZZAWI",
+            "position": "F",
+            "number": 22
+          }
+        ],
+        "goals": 4
+      },
+      {
+        "players": [
+          {
             "name": "RYAN DUCHARME",
             "position": "F",
             "number": 44
@@ -1879,21 +1894,6 @@
             "name": "JAYDEN DUMARESQ",
             "position": "F",
             "number": 23
-          }
-        ],
-        "goals": 3
-      },
-      {
-        "players": [
-          {
-            "name": "LOUIS BEAUDOIN",
-            "position": "F",
-            "number": 38
-          },
-          {
-            "name": "ZACK MAZZAWI",
-            "position": "F",
-            "number": 22
           }
         ],
         "goals": 3
@@ -2892,9 +2892,9 @@
       {
         "players": [
           {
-            "name": "TRISTAN LEVERT",
+            "name": "MILAN DROUIN",
             "position": "F",
-            "number": 32
+            "number": 27
           },
           {
             "name": "SAMUEL LALONGÉ",
@@ -2902,9 +2902,9 @@
             "number": 28
           },
           {
-            "name": "MILAN DROUIN",
+            "name": "TRISTAN LEVERT",
             "position": "F",
-            "number": 27
+            "number": 32
           }
         ],
         "goals": 2,
@@ -3120,6 +3120,21 @@
             "number": 27
           },
           {
+            "name": "SAMUEL LALONGÉ",
+            "position": "F",
+            "number": 28
+          }
+        ],
+        "goals": 5
+      },
+      {
+        "players": [
+          {
+            "name": "MILAN DROUIN",
+            "position": "F",
+            "number": 27
+          },
+          {
             "name": "DILAN MORIN",
             "position": "F",
             "number": 36
@@ -3153,21 +3168,6 @@
             "name": "KEYDEN OLIN",
             "position": "F",
             "number": 37
-          }
-        ],
-        "goals": 4
-      },
-      {
-        "players": [
-          {
-            "name": "MILAN DROUIN",
-            "position": "F",
-            "number": 27
-          },
-          {
-            "name": "SAMUEL LALONGÉ",
-            "position": "F",
-            "number": 28
           }
         ],
         "goals": 4
@@ -3504,7 +3504,7 @@
         "points": 6,
         "type": "trio",
         "raw_score": 6,
-        "dominance_score": 46.2,
+        "dominance_score": 35.3,
         "rank": "Line 1"
       },
       {
@@ -3520,9 +3520,9 @@
             "number": 24
           },
           {
-            "name": "BENJAMIN LACASSE",
+            "name": "ALEXY LABERGE",
             "position": "F",
-            "number": 11
+            "number": 54
           }
         ],
         "goals": 2,
@@ -3530,33 +3530,33 @@
         "points": 4,
         "type": "trio",
         "raw_score": 4,
-        "dominance_score": 30.8,
+        "dominance_score": 23.5,
         "rank": "Line 2"
       },
       {
         "players": [
           {
-            "name": "CEDRICK BERUBE",
+            "name": "BENJAMIN LACASSE",
             "position": "F",
-            "number": 17
+            "number": 11
           },
           {
-            "name": "ISAAK SAURETTE",
+            "name": "LOUIS GRANDMAITRE",
             "position": "F",
-            "number": 19
+            "number": 49
           },
           {
-            "name": "ROMIE ROBITAILLE",
+            "name": "ALEC QUINN",
             "position": "F",
-            "number": 22
+            "number": 0
           }
         ],
-        "goals": 1,
+        "goals": 2,
         "assists": 2,
-        "points": 3,
+        "points": 4,
         "type": "trio",
-        "raw_score": 3,
-        "dominance_score": 23.1,
+        "raw_score": 4,
+        "dominance_score": 23.5,
         "rank": "Line 3"
       }
     ],
